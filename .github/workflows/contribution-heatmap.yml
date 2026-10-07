@@ -1,20 +1,17 @@
-name: Update GitHub Contribution Heatmap
+name: Contribution Heatmap
 
 on:
-  schedule:
-    - cron: "17 6 * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-heatmap:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -25,12 +22,15 @@ jobs:
       - name: Fetch contributions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/fetch_contributions.py
+        run: |
+          echo "Using GraphQL contribution fetcher"
+          head -10 scripts/fetch_contributions.py
+          python scripts/fetch_contributions.py
 
       - name: Generate heatmap
         run: python scripts/render_heatmap_svg.py
 
-      - name: Save updated heatmap
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution heatmap"
