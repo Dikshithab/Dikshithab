@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm  Burra Shiva Dikshitha 
+# 👋 Hi, I'm Burra Shiva Dikshitha
 
 ### `Dikshithab` · she/her
 
 **Full Stack Developer | AI & GenAI Enthusiast | Cybersecurity**
 
 Building modern, responsive and intelligent applications with
+
 **Python · Django · React · AI**
 
 <br>
@@ -23,6 +24,18 @@ Building modern, responsive and intelligent applications with
 
 <div align="center">
 
+<img
+src="./profile/ascii-portrait.svg"
+width="700"
+alt="Animated developer portrait"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### `shiva@github ~ $ whoami`
 
 </div>
@@ -31,16 +44,23 @@ Building modern, responsive and intelligent applications with
 Name       : Shiva Dikshitha Burra
 Username   : Dikshithab
 Role       : Full Stack Developer
-
 Backend    : Python • Django • Django REST Framework
 Frontend   : React • JavaScript
 Database   : MySQL
-
 AI         : Generative AI • LLMs • RAG
 Security   : Cybersecurity
-
 Currently  : Building intelligent real-world applications
 ```
+
+<div align="center">
+
+<img
+src="./profile/developer-card.svg"
+width="900"
+alt="Shiva Dikshitha developer terminal card"
+/>
+
+</div>
 
 ---
 
