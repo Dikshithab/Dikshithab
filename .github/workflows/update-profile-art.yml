@@ -23,6 +23,8 @@ jobs:
           python-version: "3.11"
 
       - name: Fetch contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_contributions.py
 
       - name: Generate heatmap
