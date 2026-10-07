@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Shiva Dikshitha Burra
+# 👋 Hi, I'm  Burra Shiva Dikshitha 
 
 ### `Dikshithab` · she/her
 
 **Full Stack Developer | AI & GenAI Enthusiast | Cybersecurity**
 
-Building modern, responsive and intelligent web applications with
-**Python, Django, React and AI.**
+Building modern, responsive and intelligent applications with
+**Python · Django · React · AI**
 
 <br>
 
@@ -31,11 +31,14 @@ Building modern, responsive and intelligent web applications with
 Name       : Shiva Dikshitha Burra
 Username   : Dikshithab
 Role       : Full Stack Developer
+
 Backend    : Python • Django • Django REST Framework
 Frontend   : React • JavaScript
 Database   : MySQL
-AI         : GenAI • LLMs • RAG
+
+AI         : Generative AI • LLMs • RAG
 Security   : Cybersecurity
+
 Currently  : Building intelligent real-world applications
 ```
 
@@ -59,9 +62,9 @@ Currently  : Building intelligent real-world applications
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### AI & Tools
+### AI & Developer Tools
 
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -83,7 +86,7 @@ Currently  : Building intelligent real-world applications
 
 * 🔐 Authentication & role-based access
 * 📄 Resume upload and analysis
-* 🤖 AI-powered resume/ATS analysis
+* 🤖 AI-powered ATS analysis
 * 🔎 Advanced job search
 * 💬 AI interview preparation
 * ⚛️ React frontend
@@ -142,9 +145,11 @@ Production AI Applications
 
 ## 📈 GitHub Contributions
 
-<!-- Animated contribution heatmap will be added here -->
-
-<img src="./profile/contribution-heatmap.svg" width="860" alt="GitHub Contribution Heatmap">
+<img
+src="./profile/contribution-heatmap.svg"
+width="860"
+alt="GitHub Contribution Heatmap"
+/>
 
 </div>
 
