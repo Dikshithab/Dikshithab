@@ -7,7 +7,6 @@
 **Full Stack Developer | AI & GenAI Enthusiast | Cybersecurity**
 
 Building modern, responsive and intelligent applications with
-
 **Python · Django · React · AI**
 
 <br>
@@ -27,7 +26,7 @@ Building modern, responsive and intelligent applications with
 <img
 src="./profile/ascii-portrait.svg"
 width="700"
-alt="Animated developer portrait"
+alt="Shiva Dikshitha developer portrait"
 />
 
 </div>
@@ -36,20 +35,20 @@ alt="Animated developer portrait"
 
 <div align="center">
 
-### `shiva@github ~ $ whoami`
+### `shiva@github:~$ whoami`
 
 </div>
 
 ```text
-Name       : Shiva Dikshitha Burra
-Username   : Dikshithab
-Role       : Full Stack Developer
-Backend    : Python • Django • Django REST Framework
-Frontend   : React • JavaScript
-Database   : MySQL
-AI         : Generative AI • LLMs • RAG
-Security   : Cybersecurity
-Currently  : Building intelligent real-world applications
+Name        : Shiva Dikshitha Burra
+Username    : Dikshithab
+Role        : Full Stack Developer
+Primary     : Python • Django • React
+Backend     : Django REST Framework
+Database    : MySQL
+AI          : Generative AI • LLMs • RAG
+Security    : Cybersecurity
+Currently   : Building intelligent real-world applications
 ```
 
 <div align="center">
@@ -57,16 +56,16 @@ Currently  : Building intelligent real-world applications
 <img
 src="./profile/developer-card.svg"
 width="900"
-alt="Shiva Dikshitha developer terminal card"
+alt="Shiva Dikshitha developer terminal"
 />
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
@@ -75,11 +74,12 @@ alt="Shiva Dikshitha developer terminal card"
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Full Stack
+### Frameworks & Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### AI & Developer Tools
@@ -94,76 +94,92 @@ alt="Shiva Dikshitha developer terminal card"
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
 
-</div>
+### 💼 HireSphere — AI-Powered Job Portal
 
-### 💼 HireSphere
+A full-stack job platform designed to help job seekers discover opportunities and improve their applications.
 
-**AI-powered job portal** designed to connect job seekers with relevant opportunities.
+**Highlights**
 
-* 🔐 Authentication & role-based access
+* 🔐 JWT authentication and role-based access
 * 📄 Resume upload and analysis
 * 🤖 AI-powered ATS analysis
 * 🔎 Advanced job search
 * 💬 AI interview preparation
+* 📊 Skill matching and recommendations
 * ⚛️ React frontend
 * 🐍 Django REST backend
+
+**Stack:** `React` `Django` `DRF` `MySQL` `AI`
 
 ---
 
 ### 📋 AI-Powered Kanban
 
-A modern project-management platform that goes beyond traditional Kanban boards.
+A project-management platform that combines traditional Kanban workflows with intelligent project analysis.
 
-* 📊 Project and task management
+**Highlights**
+
+* 📊 Board and task management
 * 🧠 AI-powered project health analysis
 * ⚠️ Risk identification
 * 💡 Intelligent recommendations
 * 📈 Productivity insights
-* ⚛️ React + Django REST + Groq AI
+* 🔐 Authentication and protected workflows
+* ⚛️ React frontend
+* 🐍 Django REST backend
+* ⚡ Groq AI integration
+
+**Stack:** `React` `Django` `DRF` `Groq AI`
 
 ---
 
 ### 🔐 CipherVault
 
-A secure file encryption application built with Python.
+A secure file encryption application focused on protecting sensitive files through strong symmetric encryption.
 
-* 🔒 File encryption/decryption
+**Highlights**
+
+* 🔒 File encryption and decryption
 * 🔑 Secure key generation
-* 🐍 Flask backend
 * 🛡️ Fernet encryption
-* 🌙 Modern dark UI
+* 🐍 Flask backend
+* 🌙 Modern dark interface
+
+**Stack:** `Python` `Flask` `Fernet` `Bootstrap`
 
 ---
 
-<div align="center">
-
-## 🎯 Currently Learning
+## 🎯 Current Focus
 
 ```text
-Python Full Stack
-       ↓
-Django & REST APIs
-       ↓
-Generative AI
-       ↓
-RAG & LLM Applications
-       ↓
-AI Agents
-       ↓
-Production AI Applications
+Python Full Stack Development
+          │
+          ▼
+     Django & DRF
+          │
+          ▼
+   REST API Development
+          │
+          ▼
+    Generative AI
+          │
+          ▼
+     RAG & LLM Apps
+          │
+          ▼
+       AI Agents
+          │
+          ▼
+ Production AI Applications
 ```
-
-</div>
 
 ---
 
-<div align="center">
-
 ## 📈 GitHub Contributions
+
+<div align="center">
 
 <img
 src="./profile/contribution-heatmap.svg"
@@ -174,8 +190,6 @@ alt="GitHub Contribution Heatmap"
 </div>
 
 ---
-
-<div align="center">
 
 ## 💻 Developer Terminal
 
@@ -190,8 +204,12 @@ shiva@github:~$ echo "Keep building."
 > Repeat 🚀
 ```
 
-<br>
+---
 
-### Let's build something meaningful together.
+<div align="center">
+
+### 🌱 Always learning. Always building.
+
+**Let's build something meaningful together.**
 
 </div>
